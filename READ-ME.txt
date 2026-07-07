@@ -1,9 +1,17 @@
-  =>  Template Name    : Resume - Resume Website Template
+# My Personal Website
 
-  =>  Template Link    : https://htmlcodex.com/resume-website-template
+This repository contains the source code for my personal portfolio website.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+## Technologies Used
 
-  =>  Template Author  : HTML Codex
+- HTML
+- CSS
+- JavaScript
 
-  =>  Author Website   : https://htmlcodex.com
+## Live Website
+
+https://your-username.github.io/your-repository-name/
+
+## Author
+
+Your Name

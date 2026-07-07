@@ -10,7 +10,7 @@ This repository contains the source code for my personal portfolio website.
 
 ## Live Website
 
-https://your-username.github.io/your-repository-name/
+https://syamilykrishna111.github.io/
 
 ## Author
 
